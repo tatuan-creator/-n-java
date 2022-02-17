@@ -243,3 +243,8 @@ footer {
     display: flex;
     flex-wrap: wrap;
 }
+
+.rowcatelogy {
+    height: 25%;
+    
+}
