@@ -244,6 +244,12 @@ footer {
     flex-wrap: wrap;
 }
 
+.danhmucbanchay {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
 .rowcatelogy {
     display: flex;
     text-align: center;
