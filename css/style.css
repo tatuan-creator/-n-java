@@ -245,6 +245,14 @@ footer {
 }
 
 .rowcatelogy {
-    height: 25%;
-    
+    display: flex;
+    text-align: center;
+}
+
+.rowcatelogy div {
+    width: 25%;
+}
+
+.rowcatelogy img {
+    width: 90%;
 }
